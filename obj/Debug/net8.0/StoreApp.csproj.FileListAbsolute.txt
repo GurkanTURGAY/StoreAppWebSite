@@ -132,3 +132,4 @@ C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\tr\Microsoft.C
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\obj\Debug\net8.0\StoreApp.sourcelink.json
+C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\StoreApp.staticwebassets.runtime.json
