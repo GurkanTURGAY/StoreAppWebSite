@@ -7,7 +7,7 @@
 namespace StoreApp.Migrations
 {
     /// <inheritdoc />
-    public partial class Product : Migration
+    public partial class startPoint : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -35,7 +35,8 @@ namespace StoreApp.Migrations
                     { 2, 5000m, "Keyboard" },
                     { 3, 10000m, "Mouse" },
                     { 4, 15000m, "Monitor" },
-                    { 5, 30000m, "Deck" }
+                    { 5, 30000m, "Deck" },
+                    { 6, 40000m, "HeadPhone" }
                 });
         }
 

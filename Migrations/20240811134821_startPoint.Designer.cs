@@ -4,15 +4,15 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using StoreApp.Models;
+using Repositories;
 
 #nullable disable
 
 namespace StoreApp.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20240809161352_Product")]
-    partial class Product
+    [Migration("20240811134821_startPoint")]
+    partial class startPoint
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,7 +24,7 @@ namespace StoreApp.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("StoreApp.Models.Product", b =>
+            modelBuilder.Entity("Entities.Models.Product", b =>
                 {
                     b.Property<int>("ProductId")
                         .ValueGeneratedOnAdd()
@@ -72,6 +72,12 @@ namespace StoreApp.Migrations
                             ProductId = 5,
                             Price = 30000m,
                             ProductName = "Deck"
+                        },
+                        new
+                        {
+                            ProductId = 6,
+                            Price = 40000m,
+                            ProductName = "HeadPhone"
                         });
                 });
 #pragma warning restore 612, 618

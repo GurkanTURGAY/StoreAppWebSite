@@ -136,3 +136,5 @@ C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\StoreApp.stati
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\libman.json
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Entities.dll
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Entities.pdb
+C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Repositories.dll
+C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Repositories.pdb
