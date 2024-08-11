@@ -134,3 +134,5 @@ C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\zh-Hant\Micros
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\obj\Debug\net8.0\StoreApp.sourcelink.json
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\StoreApp.staticwebassets.runtime.json
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\libman.json
+C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Entities.dll
+C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Entities.pdb
