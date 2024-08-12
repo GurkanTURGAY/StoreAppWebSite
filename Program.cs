@@ -13,9 +13,9 @@ builder.Services.AddDbContext<RepositoryContext>(options =>
     b => b.MigrationsAssembly("StoreApp"));
 });
 
-builder.Services.AddScoped<IRepositoryManager,RepositoryManager>();
-builder.Services.AddScoped<IProductRepository,ProductRepository>();
-builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
+builder.Services.AddScoped<IRepositoryManager, RepositoryManager>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
 builder.Services.AddScoped<IServiceManager, ServiceManager>();
 builder.Services.AddScoped<IProductService, ProductManager>();
@@ -28,8 +28,20 @@ app.UseStaticFiles();
 app.UseHttpsRedirection();
 app.UseRouting();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+#pragma warning disable ASP0014 // Suggest using top level route registrations
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapAreaControllerRoute(
+        name: "Admin",
+        areaName: "Admin",
+        pattern: "Admin/{controller=Dashboard}/{action=Index}/{id?}"
+    );
+    
+    endpoints.MapControllerRoute(
+        name: "default",
+        pattern: "{controller=Home}/{action=Index}/{id?}");
+});
+#pragma warning restore ASP0014 // Suggest using top level route registrations
+
 
 app.Run();
