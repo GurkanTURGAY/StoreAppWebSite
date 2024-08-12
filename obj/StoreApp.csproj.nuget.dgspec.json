@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj": {
+    "c:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "c:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj",
+        "projectPath": "c:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\gurkant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\obj\\",
+        "outputPath": "c:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gurkant\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,8 +165,8 @@
               "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj"
+              "c:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj": {
+                "projectPath": "c:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -232,8 +232,8 @@
               "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj"
+              "c:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj": {
+                "projectPath": "c:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Repositories\\Repositories.csproj"
               },
               "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Services\\Services.csproj": {
                 "projectPath": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\Services\\Services.csproj"
