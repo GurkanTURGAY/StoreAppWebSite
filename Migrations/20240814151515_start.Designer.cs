@@ -12,7 +12,7 @@ using Repositories;
 namespace StoreApp.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20240814143129_start")]
+    [Migration("20240814151515_start")]
     partial class start
     {
         /// <inheritdoc />
@@ -94,7 +94,7 @@ namespace StoreApp.Migrations
                         {
                             ProductId = 1,
                             CategoryId = 2,
-                            ImageUrl = "/images/1.jpg",
+                            ImageUrl = "/images/computer.jpg",
                             Price = 25000m,
                             ProductName = "Computer",
                             Summary = ""
@@ -103,7 +103,7 @@ namespace StoreApp.Migrations
                         {
                             ProductId = 2,
                             CategoryId = 2,
-                            ImageUrl = "/images/2.jpg",
+                            ImageUrl = "/images/keyboard.jpg",
                             Price = 5000m,
                             ProductName = "Keyboard",
                             Summary = ""
@@ -112,7 +112,7 @@ namespace StoreApp.Migrations
                         {
                             ProductId = 3,
                             CategoryId = 2,
-                            ImageUrl = "/images/3.jpg",
+                            ImageUrl = "/images/mouse.jpg",
                             Price = 10000m,
                             ProductName = "Mouse",
                             Summary = ""
@@ -121,7 +121,7 @@ namespace StoreApp.Migrations
                         {
                             ProductId = 4,
                             CategoryId = 2,
-                            ImageUrl = "/images/4.jpg",
+                            ImageUrl = "/images/monitor.jpg",
                             Price = 15000m,
                             ProductName = "Monitor",
                             Summary = ""
@@ -130,7 +130,7 @@ namespace StoreApp.Migrations
                         {
                             ProductId = 5,
                             CategoryId = 2,
-                            ImageUrl = "/images/5.jpg",
+                            ImageUrl = "/images/deck.jpg",
                             Price = 30000m,
                             ProductName = "Deck",
                             Summary = ""
@@ -139,7 +139,7 @@ namespace StoreApp.Migrations
                         {
                             ProductId = 6,
                             CategoryId = 1,
-                            ImageUrl = "/images/6.jpg",
+                            ImageUrl = "/images/history.jfif",
                             Price = 25m,
                             ProductName = "History",
                             Summary = ""
@@ -148,7 +148,7 @@ namespace StoreApp.Migrations
                         {
                             ProductId = 7,
                             CategoryId = 1,
-                            ImageUrl = "/images/7.jpg",
+                            ImageUrl = "/images/hamlet.jpg",
                             Price = 45m,
                             ProductName = "Hamlet",
                             Summary = ""

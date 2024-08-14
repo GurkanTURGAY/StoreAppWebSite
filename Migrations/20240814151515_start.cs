@@ -62,13 +62,13 @@ namespace StoreApp.Migrations
                 columns: new[] { "ProductId", "CategoryId", "ImageUrl", "Price", "ProductName", "Summary" },
                 values: new object[,]
                 {
-                    { 1, 2, "/images/1.jpg", 25000m, "Computer", "" },
-                    { 2, 2, "/images/2.jpg", 5000m, "Keyboard", "" },
-                    { 3, 2, "/images/3.jpg", 10000m, "Mouse", "" },
-                    { 4, 2, "/images/4.jpg", 15000m, "Monitor", "" },
-                    { 5, 2, "/images/5.jpg", 30000m, "Deck", "" },
-                    { 6, 1, "/images/6.jpg", 25m, "History", "" },
-                    { 7, 1, "/images/7.jpg", 45m, "Hamlet", "" }
+                    { 1, 2, "/images/computer.jpg", 25000m, "Computer", "" },
+                    { 2, 2, "/images/keyboard.jpg", 5000m, "Keyboard", "" },
+                    { 3, 2, "/images/mouse.jpg", 10000m, "Mouse", "" },
+                    { 4, 2, "/images/monitor.jpg", 15000m, "Monitor", "" },
+                    { 5, 2, "/images/deck.jpg", 30000m, "Deck", "" },
+                    { 6, 1, "/images/history.jfif", 25m, "History", "" },
+                    { 7, 1, "/images/hamlet.jpg", 45m, "Hamlet", "" }
                 });
 
             migrationBuilder.CreateIndex(
