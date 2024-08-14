@@ -51,7 +51,8 @@ namespace StoreApp.Migrations
                 values: new object[,]
                 {
                     { 1, "Book" },
-                    { 2, "Computer" }
+                    { 2, "Electronic" },
+                    { 3, "Smart Phone" }
                 });
 
             migrationBuilder.InsertData(

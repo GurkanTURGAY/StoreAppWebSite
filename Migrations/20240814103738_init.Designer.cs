@@ -12,7 +12,7 @@ using Repositories;
 namespace StoreApp.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20240813153059_init")]
+    [Migration("20240814103738_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -50,7 +50,12 @@ namespace StoreApp.Migrations
                         new
                         {
                             CategoryId = 2,
-                            CategoryName = "Computer"
+                            CategoryName = "Electronic"
+                        },
+                        new
+                        {
+                            CategoryId = 3,
+                            CategoryName = "Smart Phone"
                         });
                 });
 

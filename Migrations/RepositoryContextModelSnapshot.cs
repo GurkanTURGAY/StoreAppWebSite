@@ -47,7 +47,12 @@ namespace StoreApp.Migrations
                         new
                         {
                             CategoryId = 2,
-                            CategoryName = "Computer"
+                            CategoryName = "Electronic"
+                        },
+                        new
+                        {
+                            CategoryId = 3,
+                            CategoryName = "Smart Phone"
                         });
                 });
 
