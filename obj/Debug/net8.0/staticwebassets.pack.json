@@ -9,8 +9,36 @@
       "PackagePath": "staticwebassets\\html\\Error.html"
     },
     {
+      "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\images\\computer.jpg",
+      "PackagePath": "staticwebassets\\images\\computer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\images\\deck.jpg",
+      "PackagePath": "staticwebassets\\images\\deck.jpg"
+    },
+    {
       "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\images\\default.jpeg",
       "PackagePath": "staticwebassets\\images\\default.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\images\\hamlet.jpg",
+      "PackagePath": "staticwebassets\\images\\hamlet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\images\\history.jfif",
+      "PackagePath": "staticwebassets\\images\\history.jfif"
+    },
+    {
+      "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\images\\keyboard.jpg",
+      "PackagePath": "staticwebassets\\images\\keyboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\images\\monitor.jpg",
+      "PackagePath": "staticwebassets\\images\\monitor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\images\\mouse.jpg",
+      "PackagePath": "staticwebassets\\images\\mouse.jpg"
     },
     {
       "Id": "C:\\Users\\gurkant\\Desktop\\StoreApp\\Store\\StoreApp\\wwwroot\\js\\site.js",
