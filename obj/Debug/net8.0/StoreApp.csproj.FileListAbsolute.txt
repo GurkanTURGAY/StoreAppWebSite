@@ -140,3 +140,5 @@ C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Repositories.d
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Repositories.pdb
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Services.dll
 C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\Services.pdb
+C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\gurkant\Desktop\StoreApp\Store\StoreApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
